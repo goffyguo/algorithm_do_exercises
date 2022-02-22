@@ -1,4 +1,4 @@
-package nowcoderhuawei;
+package huawei.nowcoderhuawei;
 
 /**
  * Created with IntelliJ IDEA.

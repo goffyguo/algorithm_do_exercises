@@ -1,4 +1,4 @@
-package huaweijishi;
+package huawei.huaweijishi;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package nowcoderhuawei;
+package huawei.nowcoderhuawei;
 
 import java.util.Scanner;
 
